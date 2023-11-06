@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>test1</title>
+      <link href="/2023/11/06/test1/"/>
+      <url>/2023/11/06/test1/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh,这是一个无效的密码。请检查并重试。" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="de2e022118fb83e2dbf32ce28b56773c40e5a1d8ad250b1e8d91b5cf25693422">ddd820efe48876020d2164604572440fa41d0b8f67e570f4da551fb6d678169fe45301bfe71f02a08a13ad8125d0dc3f75058477800ad675630d79ab4b47e3d5abc99c0d9ad6a8c19b1d0561809180398e041e0f413c6e1dcbe6bbd195ca51371979a9d91876d550efd997aeea5b1f8857363855fba8ffac0c99cc578ec432b7e05f20af673766e369ba990e003a52ad118d8d44463afb09b703d6d3e4756a0635296da06e7b753e0b242a12144d69d7d5bbffe8c1332260bbf0c227ac12cb48e984af9cef71ae735f752070fb4a42fcfbb565f047b4a5fb6521ceeacc5fca4fda11fe7f1a27f324a1dac387b3616b5e1ffb781dae4ffaed31a486d354b2a5e041ea5bdd0980dc148cf6dbe2f7b9c21146cee44f26e692a27505955f5c1e747038f618daf821a030aba0e011cfb23e912e6e29790342829ea555513cbea3d0ee54975e1dd7859634b7ea76a8bdd034760b459dacc6efced280727e9e9f424c959071ff14dfe016be839c7ced49ff1b15bb708e873ab24f12a53191e4bc52be43c51ba4ea0a5607c48884cdfffc1c0b7296e7dc116c49df47fcfc48c5c02ca99e1e30958ec5756825c08d75188ce541f1dd288b3ee82ced3b0a540733e7c13ff638f0d0859becb768a15a4f5f19f0ec95f1781a8f12fc3758ec6cc7a5c02e79cd9cb1f45723674fa7e7f2bf0087b86ec4e27fd3045c89188122fbc9ecf91070b53b5344debd124b75a84a38b454be04717b2a306b3534a6c499bb5cf61b45ebc853b83ec237db5aa5adf6464b955f8ed454b15567fad04a0670a1db3a3325b0028addc5e9321221387a1eb22e5e2ed7eceafb427e0b165e000eba123d2cf787b2bde4a34413bb0289ee735dee499542bb9e8a190afb01b650a8d26af656dfd78026dd8c5c94935f470e1fc3b41200f4c4b9a32b36deff2b2753e00340b8ccadb8084173d55ab252e393db696bacfac1d2886f3bca8102797ee91406c657e72b2d27787d2498025548a3fdfadaa936fb2011417ecc6878b16043fb6b7ecf307e2827f565bd798c9e84a444158745efdcbd443c291b23ec08d7169cde497ed9080e57b0754c4e88048adb3ea59d55b9c0a264135ef936d8230049998023d35032fbe90163f842393660b6769110b7cfb09e5eb8d8d10beb2503af254acca4e7a126a68c8cbf622d104285fc8ea0afe59e10e0fddfe9841b730ba70fbbd5e9972e4c</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入访问密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> default </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> club </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> centos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客</title>
       <link href="/2023/11/05/%E5%8D%9A%E5%AE%A2/"/>
       <url>/2023/11/05/%E5%8D%9A%E5%AE%A2/</url>
