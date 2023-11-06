@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>图库</title>
+      <link href="/2023/11/06/%E5%9B%BE%E5%BA%93/"/>
+      <url>/2023/11/06/%E5%9B%BE%E5%BA%93/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh,这是一个无效的密码。请检查并重试。" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="ac2685243f7217a53dc046802fb85a83fb73864fd349937686da10423b81d107">ddd820efe48876020d2164604572440fa41d0b8f67e570f4da551fb6d678169fe45301bfe71f02a08a13ad8125d0dc3f75058477800ad675630d79ab4b47e3d5abc99c0d9ad6a8c19b1d0561809180398e041e0f413c6e1dcbe6bbd195ca51371979a9d91876d550efd997aeea5b1f8857363855fba8ffac0c99cc578ec432b7e05f20af673766e369ba990e003a52ad118d8d44463afb09b703d6d3e4756a0635296da06e7b753e0b242a12144d69d7d5bbffe8c1332260bbf0c227ac12cb48e984af9cef71ae735f752070fb4a42fcc06acc0e2e813f155073ac45e46f178753bdaa39a5ef7099d0c8355d547d97424534af4afb2e21822492d3791b6143ada5080d95465086fcb4bd96605e96f0820d486b3cb92c112c9aefca10bec8c765e92fc1b227171d7948346c9be3b371c13bc33912f23562eadbc745b80c1b59b1</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入访问密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> default </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> club </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> centos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test1</title>
       <link href="/2023/11/06/test1/"/>
       <url>/2023/11/06/test1/</url>
