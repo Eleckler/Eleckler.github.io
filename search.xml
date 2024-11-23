@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>JUSTCTF比赛平台搭建</title>
+      <link href="/2024/11/07/JUSTCTF%E5%B9%B3%E5%8F%B0/"/>
+      <url>/2024/11/07/JUSTCTF%E5%B9%B3%E5%8F%B0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 平台搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/2023/11/06/%E5%85%B3%E4%BA%8E/"/>
       <url>/2023/11/06/%E5%85%B3%E4%BA%8E/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><h3 id="1、个人简介："><a href="#1、个人简介：" class="headerlink" title="1、个人简介："></a>1、个人简介：</h3><p>江苏科技大学信息安全专业普普通通的学生</p><p>江苏科技大学信息安全协会核心成员</p><h3 id="2、个人荣誉："><a href="#2、个人荣誉：" class="headerlink" title="2、个人荣誉："></a>2、个人荣誉：</h3><ol><li><p>五一数学建模成功参赛奖</p></li><li><p>全国大学生数学建模校赛三等奖</p></li><li><p>词达人杯校赛二等奖</p></li><li><p>人民奖学金三等奖</p></li></ol><h3 id="3、技能-证书："><a href="#3、技能-证书：" class="headerlink" title="3、技能/证书："></a>3、技能/证书：</h3><p>  1.江苏科技大学网络信息安全技能新生赛三等奖</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241102100953197.png" alt="image-20241102100953197"></p><ol start="2"><li><p>第一届“长城杯”信息安全铁人三项赛初赛：二等奖</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241102101040351.png" alt="image-20241102101040351"></p></li></ol><h3 id="4、项目经历："><a href="#4、项目经历：" class="headerlink" title="4、项目经历："></a>4、项目经历：</h3><h3 id="5、实习经历："><a href="#5、实习经历：" class="headerlink" title="5、实习经历："></a>5、实习经历：</h3><p>1、政府实习</p><h3 id><a href="#" class="headerlink" title></a></h3>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><h3 id="1、个人简介："><a href="#1、个人简介：" class="headerlink" title="1、个人简介："></a>1、个人简介：</h3><p>江苏科技大学信息安全专业普普通通的学生</p><p>江苏科技大学信息安全协会核心成员</p><h3 id="2、个人荣誉："><a href="#2、个人荣誉：" class="headerlink" title="2、个人荣誉："></a>2、个人荣誉：</h3><ol><li><p>五一数学建模成功参赛奖</p></li><li><p>全国大学生数学建模校赛三等奖</p></li><li><p>词达人杯校赛二等奖</p></li><li><p>人民奖学金三等奖</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111195117500.png" alt="image-20241111195117500"></p></li></ol><h3 id="3、技能-证书："><a href="#3、技能-证书：" class="headerlink" title="3、技能/证书："></a>3、技能/证书：</h3><p>  1.江苏科技大学网络信息安全技能新生赛三等奖</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241102100953197.png" alt="image-20241102100953197"></p><ol start="2"><li><p>第一届“长城杯”信息安全铁人三项赛初赛：二等奖</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241102101040351.png" alt="image-20241102101040351"></p></li></ol><h3 id="4、项目经历："><a href="#4、项目经历：" class="headerlink" title="4、项目经历："></a>4、项目经历：</h3><h4 id="1、政府微信反馈小程序及后台管理系统开发（因国外软件问题，并没有真正使用）"><a href="#1、政府微信反馈小程序及后台管理系统开发（因国外软件问题，并没有真正使用）" class="headerlink" title="1、政府微信反馈小程序及后台管理系统开发（因国外软件问题，并没有真正使用）"></a>1、政府微信反馈小程序及后台管理系统开发（因国外软件问题，并没有真正使用）</h4><p>工具：微信开发者工具、pycharm、vscode、navicat。</p><p>框架：python-flask、mysql。</p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111195156061.png" alt="image-20241111195156061" style="zoom: 25%;"><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111200811537.png" alt="image-20241111200811537" style="zoom:25%;"></p><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111201513060.png" alt="image-20241111201513060" style="zoom:25%;"><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111201543044.png" alt="image-20241111201543044" style="zoom:25%;"></p><h3 id="5、实习经历："><a href="#5、实习经历：" class="headerlink" title="5、实习经历："></a>5、实习经历：</h3><p>1、政府实习</p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111200116109.png" alt="image-20241111200116109" style="zoom: 50%;"><h3 id="附录："><a href="#附录：" class="headerlink" title="附录："></a>附录：</h3><p><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111194653683.png" alt="image-20241111194653683" style="zoom: 33%;"><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111194728224.png" alt="image-20241111194728224" style="zoom:33%;"><img src="/2023/11/06/%E5%85%B3%E4%BA%8E/image-20241111194830178.png" alt="image-20241111194830178" style="zoom:33%;"></p>]]></content>
       
       
       <categories>
@@ -20,9 +45,7 @@
       
         <tags>
             
-            <tag> 自我介绍 </tag>
-            
-            <tag> 个人成果 </tag>
+            <tag> 个人介绍 </tag>
             
         </tags>
       
@@ -56,7 +79,7 @@
     
     
     <entry>
-      <title>test1</title>
+      <title>博客文章</title>
       <link href="/2023/11/06/test1/"/>
       <url>/2023/11/06/test1/</url>
       
@@ -65,14 +88,14 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> 平台搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 写博客 </tag>
+            <tag> 博客搭建 </tag>
             
         </tags>
       
@@ -90,14 +113,14 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> 平台搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 写博客 </tag>
+            <tag> 博客搭建 </tag>
             
         </tags>
       
